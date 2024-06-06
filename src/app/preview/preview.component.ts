@@ -11,7 +11,7 @@ import { setInterval } from 'timers';
 })
 export class PreviewComponent implements OnInit {
 image =[
-'photo_6037245849802751350_y.jpg',
+'../../../dist/gallery/browser/photo_6037245849802751350_y.jpg',
 'photo_6037245849802751349_y.jpg',
 'photo_6037245849802751348_y.jpg',
 'photo_5886513843700613019_y.jpg',
