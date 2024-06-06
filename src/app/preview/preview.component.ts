@@ -11,11 +11,23 @@ import { setInterval } from 'timers';
 })
 export class PreviewComponent implements OnInit {
 image =[
-'../../../public/photo_5886513843700613019_y.jpg',
-'../../../public/photo_5893389686909551107_y.jpg',
-'../../../public/photo_5895220648647703593_y.jpg',
-'../../../public/photo_5947286037506145952_y.jpg',
-'../../../public/photo_5947286037506145953_y.jpg',
+'photo_6037245849802751350_y.jpg',
+'photo_6037245849802751349_y.jpg',
+'photo_6037245849802751348_y.jpg',
+'photo_5886513843700613019_y.jpg',
+'photo_5893389686909551107_y.jpg',
+'photo_5895220648647703593_y.jpg',
+'photo_5895457614878326090_y.jpg',
+'photo_5947286037506145952_y.jpg',
+'photo_5947286037506145953_y.jpg',
+'photo_5947286037506145955_y.jpg',
+'photo_5947286037506145957_y.jpg',
+'image1.jpg',
+'image2.jpg',
+'image3.jpg',
+'image4.jpg',
+'image5.jpg',
+'image6.jpg',
 ]
 i=0
 next(){
