@@ -22,12 +22,12 @@ image =[
 'photo_5947286037506145953_y.jpg',
 'photo_5947286037506145955_y.jpg',
 'photo_5947286037506145957_y.jpg',
-'image1.jpg',
-'image2.jpg',
-'image3.jpg',
-'image4.jpg',
-'image5.jpg',
-'image6.jpg',
+'\image1.jpg',
+' \image2.jpg',
+'\image3.jpg',
+'\image4.jpg',
+'\image5.jpg',
+'\image6.jpg',
 ]
 i=0
 next(){
